@@ -99,7 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - VisDrone dataset: [VisDrone Project](http://aiskyeye.com/)
 - YOLOv8: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-
-## Contact
-
-For any queries, please open an issue in the GitHub repository.
